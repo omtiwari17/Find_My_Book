@@ -84,9 +84,6 @@ Find My Book is a desktop application designed to help users search for books us
 ## ✍️ Authors
 
 * **Om Tiwari**
-* **Palak Khatri**
-
-*(Feel free to add more contributors as the project grows!)*
 
 ## 📌 License
 
