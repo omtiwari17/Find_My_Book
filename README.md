@@ -28,7 +28,7 @@ Find My Book is a desktop application designed to help users search for books us
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/omtiwari17/Find_My_Book.git](https://github.com/omtiwari17/Find_My_Book.git)
+    git clone https://github.com/omtiwari17/Find_My_Book.git
     cd find-my-book
     ```
 
@@ -88,5 +88,3 @@ Find My Book is a desktop application designed to help users search for books us
 ## 📌 License
 
 This project is open-source and available for use and modification.
-
-*(It's recommended to add a specific open-source license file (e.g., `LICENSE.md`) to your repository, such as the MIT License or Apache License 2.0, to clarify usage rights and limitations.)*
